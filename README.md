@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazarbelge&label=Profile%20views&color=ff0000&style=flat" alt="hazarbelge" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hazarbelge" alt="hazarbelge" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hazarbelge&row=2&column=3&theme=darkhub" alt="hazarbelge" /></a> </p>
 
 - 📫 Reach me: **hazarbelge@gmail.com**
 
