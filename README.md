@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hazarbelge" alt="hazarbelge" /></a> </p>
 
-- 📫 How to reach me **hazarbelge@gmail.com**
+- 📫 Reach me: **hazarbelge@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
