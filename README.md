@@ -1,4 +1,4 @@
-<h3 align="center">A Passionate Flutter Developer and Full-Time Student</h3>
+<h3 align="center">Developer and Full-Time Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazarbelge&label=Profile%20views&color=ff0000&style=flat" alt="hazarbelge" /> </p>
 
