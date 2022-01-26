@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hazarbelge&row=2&column=3&theme=darkhub" alt="hazarbelge" /></a> </p>
 
-- 📫 Reach me: **hazarbelge@gmail.com**
+### 📫 Reach me: **hazarbelge@gmail.com**
 
 ### Google Play Store Profile: <a href="https://play.google.com/store/apps/dev?id=8411620319663545720" target="blank"><img align="center" src="https://user-images.githubusercontent.com/56136163/151215838-3c60b4a8-e2ef-44cc-9a18-d27cf33901dd.svg" alt="hazarbelge" height="60" width="80" /></a>  
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://play.google.com/store/apps/dev?id=8411620319663545720" target="blank"><img align="center" src="https://user-images.githubusercontent.com/56136163/151215838-3c60b4a8-e2ef-44cc-9a18-d27cf33901dd.svg" alt="hazarbelge" height="30" width="30" /></a>  
+<a href="hazarbelge@gmail.com" target="blank">📫</a>
 <a href="https://linkedin.com/in/hazarbelge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hazarbelge" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16766831" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16766831" height="30" width="40" /></a>
 <a href="https://medium.com/@hazarbelge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hazarbelge" height="30" width="40" /></a>
