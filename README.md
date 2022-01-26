@@ -8,6 +8,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Multi-Platform The Movie DB App Example With GetX State, Route &amp; Dependency Managements](https://medium.com/@hazarbelge/flutter-multi-platform-the-movie-db-app-example-with-getx-state-route-dependency-managements-72ec621dcce2?source=rss-a1f26d1ec991------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
