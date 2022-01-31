@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hazarbelge&row=2&column=4&theme=darkhub" alt="hazarbelge" /></a> </p>
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Flutter Multi-Platform The Movie DB App Example With GetX State, Route &amp; Dependency Managements](https://medium.com/@hazarbelge/flutter-multi-platform-the-movie-db-app-example-with-getx-state-route-dependency-managements-72ec621dcce2?source=rss-a1f26d1ec991------2)
 <!-- BLOG-POST-LIST:END -->
