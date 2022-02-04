@@ -4,7 +4,7 @@
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hazarbelge&row=2&column=4&theme=darkhub" alt="hazarbelge" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=hazarbelge&row=2&column=4&theme=darkhub"><img src="https://github-profile-trophy.vercel.app/?username=hazarbelge&row=2&column=4&theme=darkhub" alt="hazarbelge" /></a> </p>
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
