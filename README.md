@@ -2,10 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazarbelge&label=Profile%20views&color=ff0000&style=flat" alt="hazarbelge" /> </p>
 
-<a href="https://github-profile-trophy.vercel.app/?username=hazarbelge&row=2&column=4&theme=darkhub"><h2>🏆 Github Profile Trophy</h2></a>
-
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=hazarbelge&row=2&column=4&theme=darkhub"><img src="https://github-profile-trophy.vercel.app/?username=hazarbelge&row=2&column=4&theme=darkhub" alt="hazarbelge" /></a> </p>
-
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Flutter Multi-Platform The Movie DB App Example With GetX State, Route &amp; Dependency Managements](https://medium.com/@hazarbelge/flutter-multi-platform-the-movie-db-app-example-with-getx-state-route-dependency-managements-72ec621dcce2?source=rss-a1f26d1ec991------2)
