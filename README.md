@@ -1,7 +1,5 @@
 <h3 align="center">Developer and Full-Time Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hazarbelge&label=Profile%20views&color=ff0000&style=flat" alt="hazarbelge" /> </p>
-
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Flutter Multi-Platform The Movie DB App Example With GetX State, Route &amp; Dependency Managements](https://medium.com/@hazarbelge/flutter-multi-platform-the-movie-db-app-example-with-getx-state-route-dependency-managements-72ec621dcce2?source=rss-a1f26d1ec991------2)
