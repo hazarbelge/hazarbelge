@@ -1,4 +1,4 @@
-<h3 align="center">Developer and Full-Time Learner</h3>
+<h3 align="center">Software Engineer and Full-Time Learner</h3>
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
